@@ -1,1 +1,1 @@
-# ChatGPT
+# ChatGPTの回答記録用
